@@ -17,7 +17,7 @@ function elso_flag_default_flags() {
     'types' => array(
       0 => 'article',
     ),
-    'flag_short' => 'Flag this item',
+    'flag_short' => 'bla',
     'flag_long' => '',
     'flag_message' => '',
     'unflag_short' => 'Unflag this item',
@@ -38,11 +38,11 @@ function elso_flag_default_flags() {
     'access_author' => '',
     'show_contextual_link' => 0,
     'i18n' => 0,
-    'api_version' => 3,
     'module' => 'elso',
     'locked' => array(
       0 => 'name',
     ),
+    'api_version' => 3,
   );
   return $flags;
 
