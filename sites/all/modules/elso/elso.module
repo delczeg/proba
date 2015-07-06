@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the elso feature.
+ */
+
+include_once 'elso.features.inc';
